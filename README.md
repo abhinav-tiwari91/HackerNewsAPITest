@@ -1,19 +1,19 @@
 # HackerNewsAPITest
 ## Use Cases:
-Retrieve top stories
-Retrieve current top story details
-Retrieve first comment of a top story
-Edge cases (invalid IDs)
-Edge cases (Response Code Mismatch Bug)- This will fail
+* Retrieve top stories
+* Retrieve current top story details
+* Retrieve first comment of a top story
+* Edge cases (invalid IDs)
+* Edge cases (Response Code Mismatch Bug)- This will fail
 
 ## Report:
 TestNG reports generated in 'test-output/emailable-report.html' post execution.
 
 
 ## Setup:
-git clone https://github.com/abhinav-tiwari91/HackerNewsAPITest.git
-cd hackernews-api-test
-mvn clean install
+* git clone https://github.com/abhinav-tiwari91/HackerNewsAPITest.git
+* cd hackernews-api-test
+* mvn clean install
 
 ## Or 
 Execute testing.xml file in project repo.

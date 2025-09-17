@@ -7,7 +7,7 @@
 * Edge cases (Response Code Mismatch Bug)- This will fail
 
 ## Report:
-* TestNG reports generated in 'test-output/emailable-report.html' post execution.
+* TestNG reports generated in 'test-output/emailable-report.html' post execution.Go to the folder and then open it to view Execution Report.
 * In Test Result it should show 4 Test cases Pass and 1 Fail because of the bug.
 
 
